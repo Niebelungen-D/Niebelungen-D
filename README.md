@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 <p align="center"> 🏃 Gaming / Coding</p>
 <p align="center">♟ Watching Anime </p>
 </div>
+
+[![Niebelungen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niebelungen-D)](https://github.com/Niebelungen-D/github-readme-stats)
