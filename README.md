@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm <a href="https://niebelungen-d.top//">Niebelungen</a>!</h1> 
 <div align="center"> 
 <p >🍻 Junior at 🇨🇳 JXNU, _BSc in Computer Science_</p>
-<p >⚡ C / C++ / Python / Java.</p>
+<p >⚡ C / C++ / Python.</p>
 <p align="center"> 🖋 Writer at <a href="https://niebelungen-d.top/">Blog</a></p>
-<p align="center">✍️ <a href="https://www.cnblogs.com/YenKoc">Blogger</a></p>
-<p align="center"> 🏃 Dancing / Coding</p>
-<p align="center">🥋 Boxing / Tai Chi</p>
+<p align="center">✍️ <a href="https://niebelungen-d.top/">Blogger</a></p>
+<p align="center"> 🏃 Gaming / Coding</p>
 <p align="center">♟ Watching Anime </p>
 </div>
 
