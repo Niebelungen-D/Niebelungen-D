@@ -26,4 +26,7 @@ Here are some ideas to get you started:
 <p align="center">♟ Watching Anime </p>
 </div>
 
-[![Niebelungen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niebelungen-D)](https://github.com/Niebelungen-D/github-readme-stats)
+<h1 align="center"></h1>
+<p align="center">
+  <a href="https://github.com/Niebelungen-D"><img src="https://github-readme-stats.vercel.app/api?username=Niebelungen-D&hide_border=true&show_icons=true"></a>
+</p>
