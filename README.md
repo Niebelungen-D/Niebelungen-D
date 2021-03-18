@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <p >⚡ C / C++ / Python.</p>
 <p align="center"> 🖋 Writer at <a href="https://niebelungen-d.top/">Blog</a></p>
 <p align="center">✍️ <a href="https://niebelungen-d.top/">Blogger</a></p>
+<p align="center">:checkered_flag: PWNer in CTF / Coding</p>
 <p align="center"> 🏃 Gaming / Coding</p>
 <p align="center">♟ Watching Anime </p>
 </div>
