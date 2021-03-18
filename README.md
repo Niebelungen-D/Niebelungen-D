@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 <h1 align="center">Hi, I'm <a href="https://niebelungen-d.top//">Niebelungen</a>!</h1> 
 <div align="center"> 
-<p >🍻 Sophomore in HIT, _BSc in Cyberspace Security_</p>
-<p >⚡ C / C++ / Python.</p>
+<p > 🍻 Sophomore in HIT, _BSc in Cyberspace Security_</p>
+<p > ⚡ C / C++ / Python.</p>
 <p align="center"> 🖋 Writer at <a href="https://niebelungen-d.top/">Blog</a></p>
-<p align="center">✍️ <a href="https://niebelungen-d.top/">Blogger</a></p>
-<p align="center">:checkered_flag: PWNer in CTF / Coding</p>
-<p align="center"> 🏃 Gaming / Coding</p>
-<p align="center">♟ Watching Anime </p>
+<p align="center"> ✍️ <a href="https://niebelungen-d.top/">Blogger</a></p>
+<p align="center"> :checkered_flag: PWNer in CTF</p>
+<p align="center"> :video_game: Gaming / Coding</p>
+<p align="center"> ♟ Watching Anime </p>
 </div>
 
 <h1 align="center"></h1>
