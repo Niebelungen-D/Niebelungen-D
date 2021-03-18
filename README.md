@@ -25,8 +25,3 @@ Here are some ideas to get you started:
 <p align="center"> 🏃 Gaming / Coding</p>
 <p align="center">♟ Watching Anime </p>
 </div>
-
-<h1 align="center"></h1>
-<p align="center">
-  <a href="https://github.com/YenKoc"><img src="https://github-readme-stats.vercel.app/api?username=YenKoc&hide_border=true&show_icons=true" alt="刘诚还看呢？"></a>
-</p>
