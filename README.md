@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-<h1 align="center">Hi, I'm <a href="https://niebelungen-d.top//">Niebelungen</a>!</h1> 
+<h1 align="center">Hi, I'm <a href="http://niebelungen-d.github.io/">Niebelungen</a>!</h1> 
 <div align="center"> 
-<p > 🍻 Sophomore in HIT, _BSc in Cyberspace Security_</p>
+<p > 🍻 Senior in HIT, _BSc in Cyberspace Security_</p>
 <p > ⚡ C / C++ / Python.</p>
-<p align="center"> 🖋 Writer at <a href="https://niebelungen.top/">Blog</a></p>
-<p align="center"> ✍️ <a href="https://niebelungen.top/">Blogger</a></p>
-<p align="center"> :checkered_flag: PWNer in CTF</p>
+<p align="center"> ✍️ <a href="http://niebelungen-d.github.io/">Blogger</a></p>
+<p align="center"> :checkered_flag: Pwner @ r3kapig</p>
 <p align="center"> :video_game: Gaming / Coding</p>
 <p align="center"> ♟ Watching Anime </p>
 </div>
