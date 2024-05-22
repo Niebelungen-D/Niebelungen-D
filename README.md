@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm <a href="http://niebelungen-d.github.io/">Niebelungen</a>!</h1> 
 <div align="center"> 
-<p > 🍻 Senior in HIT, _BSc in Cyberspace Security_</p>
+<p > 🍻 Graduate student of FDU, _BSc in Cyberspace Security_</p>
 <p > ⚡ C / <s>C++</s> Rust / Python.</p>
 <p align="center"> ✍️ <a href="http://niebelungen-d.github.io/">Blogger</a></p>
 <p align="center"> :checkered_flag: Pwner @ r3kapig</p>
